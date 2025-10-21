@@ -1,13 +1,29 @@
-<item>
-    <title>Version 1.0.0</title>
-    <sparkle:version>1.0.0</sparkle:version>
-    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-    <pubDate>Tue, 21 Oct 2025 08:24:23 +0000</pubDate>
-    <enclosure 
-        url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v1.0.0/BucketMate-1.0.0.dmg"
-        sparkle:version="1.0.0"
-        sparkle:shortVersionString="1.0.0"
-        type="application/octet-stream"
-    />
-    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-</item>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <channel>
+    <title>Bucketmate Updates</title>
+    <link>https://bucketmate.app/</link>
+    <description>Latest releases of Bucketmate for macOS</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 1.2.3</title>
+      <sparkle:releaseNotesLink>
+        https://github.com/dungtrandev/bucketmate/releases/tag/v1.2.3
+      </sparkle:releaseNotesLink>
+      <pubDate>Tue, 22 Oct 2025 10:00:00 +0000</pubDate>
+      <enclosure
+          url="https://github.com/dungtrandev/bucketmate/releases/download/v1.2.3/Bucketmate-1.2.3.dmg"
+          sparkle:version="1.2.3"
+          sparkle:shortVersionString="1.2.3"
+          length="52318412"
+          type="application/octet-stream"
+          sparkle:edSignature="e7Mv3VZKsyZpSkz5rZL3bq2JvOG7S2PYlA0pxl5G98s="
+      />
+    </item>
+
+  </channel>
+</rss>
