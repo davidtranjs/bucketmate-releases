@@ -11,7 +11,7 @@
             <sparkle:version>0.0.3</sparkle:version>
             <description>- 🚀 New feature 003: Add appcast generation
 - 🐛 Bug fix 003: Fix some issues with the appcast generation</description>
-            <pubDate>Thu, 30 Oct 2025 06:39:48 GMT</pubDate>
+            <pubDate>Thu, 30 Oct 2025 06:54:43 GMT</pubDate>
             <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.0.3/BucketMate-0.0.3.dmg" length="11233807" type="application/octet-stream" sparkle:version="0.0.3" sparkle:edSignature="sI6roK8L/X6HU92UyJwaPuw+Mh7uEBiie/6RjuQOSXftAp4lNlXqmxyAQkb6gIuLYgfpv9XdpO6/F5CvlT92Aw==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
