@@ -6,13 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.1</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v1.1</link>
-            <sparkle:version>1.1</sparkle:version>
-            <description>- 🚀 New feature 1.1: Add appcast generation
-- 🐛 Bug fix 1.1: Fix some issues with the appcast generation</description>
-            <pubDate>Thu, 30 Oct 2025 07:28:52 GMT</pubDate>
-            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v1.1/BucketMate-1.1.dmg" length="11233932" type="application/octet-stream" sparkle:version="1.1" sparkle:edSignature="VdbvFDmPujEMbMT3opgBrmiRdJUD8SUykdrSDR9B8tHHteA7IkKkki6fLu3gQ4liqpeAXojW0OU6rZaM4CtwDw==" />
+            <title>Version 0.1</title>
+            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.1</link>
+            <sparkle:version>0.1</sparkle:version>
+            <description><![CDATA[<ul><li>🚀 First release ever!</li><li>👉 Go to bucketmate.app to download the app!!</li></ul>]]></description>
+            <pubDate>Fri, 31 Oct 2025 04:57:36 GMT</pubDate>
+            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.1/BucketMate-0.1.dmg" length="11233920" type="application/octet-stream" sparkle:version="0.1" sparkle:edSignature="57P5+Uc9cscu8tHMBRJYPK681HJ9yWdqqBNKjR8wU/Stzew4N+97jz8sJvDGA/Sa8izKmgWPXLZQ0rGavN4yCA==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
