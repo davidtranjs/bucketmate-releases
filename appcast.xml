@@ -6,12 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.1</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.1</link>
-            <sparkle:version>0.1</sparkle:version>
-            <description><![CDATA[<ul><li>🚀 First release ever!</li><li>👉 Go to bucketmate.app to download the app!!</li></ul>]]></description>
-            <pubDate>Fri, 31 Oct 2025 04:57:36 GMT</pubDate>
-            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.1/BucketMate-0.1.dmg" length="11233920" type="application/octet-stream" sparkle:version="0.1" sparkle:edSignature="57P5+Uc9cscu8tHMBRJYPK681HJ9yWdqqBNKjR8wU/Stzew4N+97jz8sJvDGA/Sa8izKmgWPXLZQ0rGavN4yCA==" />
+            <title>Version 0.2</title>
+            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.2</link>
+            <sparkle:version>0.2</sparkle:version>
+            <description><![CDATA[<ul><li>🚀 New feature: Support custom region values when add new connection</li><li>🐛 Bug fix: Not able to perform some actions of some S3 providers (e.g., Infomaniak, MinIO).</li><li>🐛 Bug fix: Fix a issue when uploading files that lead to crash app.</li></ul>]]></description>
+            <pubDate>Sat, 01 Nov 2025 07:22:34 GMT</pubDate>
+            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.2/BucketMate-0.2.dmg" length="11237162" type="application/octet-stream" sparkle:version="0.2" sparkle:edSignature="E+JWfMXDwHN3PX45rq2CHbAUIvC0yE/IwsFxTA7QPuYrUupYvwCaPjBr4u2vFv2awiFsFVkhDgN37hpqC1IdCA==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
