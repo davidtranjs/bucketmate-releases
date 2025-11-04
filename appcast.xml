@@ -6,12 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.2</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.2</link>
-            <sparkle:version>0.2</sparkle:version>
-            <description><![CDATA[<ul><li>🚀 New feature: Support custom region values when add new connection</li><li>🐛 Bug fix: Not able to perform some actions of some S3 providers (e.g., Infomaniak, MinIO).</li><li>🐛 Bug fix: Fix a issue when uploading files that lead to crash app.</li></ul>]]></description>
-            <pubDate>Sat, 01 Nov 2025 07:22:34 GMT</pubDate>
-            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.2/BucketMate-0.2.dmg" length="11237162" type="application/octet-stream" sparkle:version="0.2" sparkle:edSignature="E+JWfMXDwHN3PX45rq2CHbAUIvC0yE/IwsFxTA7QPuYrUupYvwCaPjBr4u2vFv2awiFsFVkhDgN37hpqC1IdCA==" />
+            <title>Version 0.3</title>
+            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.3</link>
+            <sparkle:version>0.3</sparkle:version>
+            <description><![CDATA[<ul><li>🚀 New feature / improvement:</li></ul><p>+ Add support for PDF inline preview</p><p>+ Add support for Wasabi provider</p><p>+ Support for hierarchy navigation in the file list with folder and breadcrumb</p><p>+ Folder: support rename and delete</p><p>+ Add deselect shortcut (ESC)</p><br/><ul><li>🐛 Bug fix:</li></ul><p>+ Correct DO space regions</p><p>+ Correct Add connection validation</p>]]></description>
+            <pubDate>Tue, 04 Nov 2025 06:35:28 GMT</pubDate>
+            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.3/BucketMate-0.3.dmg" length="11376625" type="application/octet-stream" sparkle:version="0.3" sparkle:edSignature="IDqHkp+md7Y42/iinnwWVUEQb7yWsa+5wnoHu3i/mUYSQvOWXO65N1azrP7uPpKPyHWO74u0thcoQZvU4vGfAA==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
