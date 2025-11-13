@@ -6,12 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.3</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.3</link>
-            <sparkle:version>0.3</sparkle:version>
-            <description><![CDATA[<ul><li>🚀 New feature / improvement:</li></ul><p>+ Add support for PDF inline preview</p><p>+ Add support for Wasabi provider</p><p>+ Support for hierarchy navigation in the file list with folder and breadcrumb</p><p>+ Folder: support rename and delete</p><p>+ Add deselect shortcut (ESC)</p><br/><ul><li>🐛 Bug fix:</li></ul><p>+ Correct DO space regions</p><p>+ Correct Add connection validation</p>]]></description>
-            <pubDate>Tue, 04 Nov 2025 06:35:28 GMT</pubDate>
-            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.3/BucketMate-0.3.dmg" length="11376625" type="application/octet-stream" sparkle:version="0.3" sparkle:edSignature="IDqHkp+md7Y42/iinnwWVUEQb7yWsa+5wnoHu3i/mUYSQvOWXO65N1azrP7uPpKPyHWO74u0thcoQZvU4vGfAA==" />
+            <title>Version 0.4</title>
+            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.4</link>
+            <sparkle:version>0.4</sparkle:version>
+            <description><![CDATA[<ul><li>🚀 New feature / improvement:</li></ul><p>+ Allow hide bucket</p><p>+ Improve loading to avoid layout shift</p><br/><ul><li>🐛 Bug fix:</li></ul><p>+ Multi-select issue</p><p>+ CMD+F to focus search input when searching</p>]]></description>
+            <pubDate>Thu, 13 Nov 2025 10:11:25 GMT</pubDate>
+            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.4/BucketMate-0.4.dmg" length="11380949" type="application/octet-stream" sparkle:version="0.4" sparkle:edSignature="/J9OhOZiyJOCPyey+r4Xls+rIwFapbQUVYW5fsYYCli+M4fZ69wnuff1yWtVFAuWbOefUqgr/RD8B6vvlJA6Bw==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
