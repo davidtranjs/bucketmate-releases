@@ -6,12 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.4</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.4</link>
-            <sparkle:version>0.4</sparkle:version>
-            <description><![CDATA[<ul><li>🚀 New feature / improvement:</li></ul><p>+ Allow hide bucket</p><p>+ Improve loading to avoid layout shift</p><br/><ul><li>🐛 Bug fix:</li></ul><p>+ Multi-select issue</p><p>+ CMD+F to focus search input when searching</p>]]></description>
-            <pubDate>Thu, 13 Nov 2025 10:11:25 GMT</pubDate>
-            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.4/BucketMate-0.4.dmg" length="11380949" type="application/octet-stream" sparkle:version="0.4" sparkle:edSignature="/J9OhOZiyJOCPyey+r4Xls+rIwFapbQUVYW5fsYYCli+M4fZ69wnuff1yWtVFAuWbOefUqgr/RD8B6vvlJA6Bw==" />
+            <title>Version 0.5</title>
+            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.5</link>
+            <sparkle:version>0.5</sparkle:version>
+            <description><![CDATA[<ul><li>🚀 New feature / improvement:</li></ul><p>+ Add support for create folder</p><p>+ Add MinIO provider support</p><br/><ul><li>🐛 Bug fix:</li></ul><p>+ Persist preview panel state and window size</p><p>+ Allow connect single bukcet connection without error</p><p>+ Avoid duplicate selected, highlight the same named bucket.</p><p>+ Remove loading when API call is finished</p><p>+ Fix rename and delete folder issues</p>]]></description>
+            <pubDate>Mon, 17 Nov 2025 14:11:36 GMT</pubDate>
+            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.5/BucketMate-0.5.dmg" length="12563247" type="application/octet-stream" sparkle:version="0.5" sparkle:edSignature="8BFyVL+M3Tnq51/bolZbqB1naatVwd47RctVed2li0qt54K6smJ3ZC49xXcgL86+bsmcCkYJ2NovPFOvA5WDDA==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
