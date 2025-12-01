@@ -6,7 +6,7 @@ This repository contains the releases for [BucketMate.app](https://bucketmate.ap
 [Issues > Bug report](https://github.com/davidtranjs/bucketmate-releases/issues/new?template=bug_report.yml)
 
 # For feedback
-[Issues > Feedback](https://github.com/davidtranjs/bucketmate-releases/issues/new?template=bug_report.yml)
+[Issues > Feedback](https://github.com/davidtranjs/bucketmate-releases/issues/new?template=feedback.yml)
 
 # For support
 Email: [support@bucketmate.app](mailto:support@bucketmate.app)
