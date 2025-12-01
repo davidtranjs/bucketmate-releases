@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
   - name: Support
-    url: https://github.com/davidtran/bucketmate-release/issues
+    url: mailto:support@bucketmate.app
     about: Get help with BucketMate.app
 
