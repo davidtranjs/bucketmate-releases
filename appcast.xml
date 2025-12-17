@@ -6,12 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.6</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.6</link>
-            <sparkle:version>0.6</sparkle:version>
-            <description><![CDATA[<ul><li>🚀 New feature / improvement:</li></ul><p>+ Change upload UI from dialog to popover</p><p>+ Show file count when select multiple files</p><p>+ Multi-select - allow copying files and URLs with separator</p><p>+ Support creating folder from folder context menu</p><p>+ Allow creating folder when downloading</p><p>+ Change pin connect behavior</p><p>+ Show folder size</p><p>+ Delete files faster</p><p>+ Support uploading whole folders</p><p>+ Add menu to send bugs and feedback</p><br/><ul><li>🐛 Bug fix:</li></ul><p>+ Fix incorrect file counts between places on UI</p><p>+ Fix incorrect multi-select with shortcut</p><p>+ Fix bucket load race condition between connections</p><p>+ Fix delete selected files/folders functionality</p><p>+ Persist hidden bucket status</p>]]></description>
-            <pubDate>Sun, 30 Nov 2025 15:29:54 GMT</pubDate>
-            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.6/BucketMate-0.6.dmg" length="7786399" type="application/octet-stream" sparkle:version="0.6" sparkle:edSignature="/MmNc5xbCgQXgSkb31cYA4THYYIwQctmstzlJ9IY7ha3qZWimFJZeB8BeNSQArBnT7mAki+bObE9dKfOpXXRDg==" />
+            <title>Version 0.7</title>
+            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.7</link>
+            <sparkle:version>0.7</sparkle:version>
+            <description><![CDATA[<ul><li>🚀 New feature / improvement:</li></ul><p>+ Improve caching</p>]]></description>
+            <pubDate>Wed, 17 Dec 2025 02:46:18 GMT</pubDate>
+            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.7/BucketMate-0.7.dmg" length="7829947" type="application/octet-stream" sparkle:version="0.7" sparkle:edSignature="2ZKsgGUw1ljPBDJqNoYcrYnRMOu+WuGIqEC4I/4I5qYx0kegUahkVSW9rod1rhNNdYvh21O5yzQrRtRf5ESrDw==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
