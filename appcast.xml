@@ -6,12 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.7</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.7</link>
-            <sparkle:version>0.7</sparkle:version>
-            <description><![CDATA[<ul><li>🚀 New feature / improvement:</li></ul><p>+ Improve caching</p>]]></description>
-            <pubDate>Wed, 17 Dec 2025 02:46:18 GMT</pubDate>
-            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.7/BucketMate-0.7.dmg" length="7829947" type="application/octet-stream" sparkle:version="0.7" sparkle:edSignature="2ZKsgGUw1ljPBDJqNoYcrYnRMOu+WuGIqEC4I/4I5qYx0kegUahkVSW9rod1rhNNdYvh21O5yzQrRtRf5ESrDw==" />
+            <title>Version 0.8</title>
+            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v0.8</link>
+            <sparkle:version>0.8</sparkle:version>
+            <description><![CDATA[<ul><li>🚀 New feature/improvement:</li></ul><p>+ Optimize performance for large buckets that have a lot of files.</p><p>+ Support Intel chips with Universal build.</p><br/><ul><li>🐛 Bug fix:</li></ul><p>+ Fix upload issue that sometimes ignores some files.</p><p>+ Prevent upload issues when switching between buckets/connections while uploading.</p><p>+ Improve notification messages when processing changes.</p>]]></description>
+            <pubDate>Tue, 06 Jan 2026 07:24:57 GMT</pubDate>
+            <enclosure url="https://github.com/davidtranjs/bucketmate-releases/releases/download/v0.8/BucketMate-0.8.dmg" length="8050884" type="application/octet-stream" sparkle:version="0.8" sparkle:edSignature="E4j4MIXmieFsEt2WbNhI50Ov2CsZ6Obhcra4AsWBqDGKkEn8bqs553+0dUkBVJKmhoMioO85QO/ATWJDW9zhDg==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
