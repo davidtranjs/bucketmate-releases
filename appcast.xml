@@ -8,11 +8,12 @@
         <item>
             <title>Version 1.5</title>
             <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v1.5</link>
-            <sparkle:version>1.5</sparkle:version>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://bucketmate.app/release-notes</sparkle:releaseNotesLink>
             <sparkle:fullReleaseNotesLink>https://bucketmate.app/release-notes</sparkle:fullReleaseNotesLink>
-            <pubDate>Sun, 05 Jul 2026 15:41:42 GMT</pubDate>
-            <enclosure url="https://static.bucketmate.app/BucketMate-1.5.dmg" length="12971008" type="application/octet-stream" sparkle:version="1.5" sparkle:edSignature="3izDUR9MB8MIYP65S0tp1MGSmH7R2Kti/7feT4qMaG3mgUXaZ5m1uGDojdcmQiBGMk/KGZUGN20YIl/lDIJGAQ==" />
+            <pubDate>Sun, 05 Jul 2026 16:08:12 GMT</pubDate>
+            <enclosure url="https://static.bucketmate.app/BucketMate-1.5.dmg" length="12971072" type="application/octet-stream" sparkle:version="13" sparkle:edSignature="vq6bX9LeJ2pV0iqzvcZI28DCpyNcsXXaYDMH75YG51+gZWY1yQ5r0p67SBzCY0yChf58MP4C6YBU+fI23kGlDQ==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
