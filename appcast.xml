@@ -6,14 +6,14 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.6</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v1.6</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <title>Version 1.7</title>
+            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v1.7</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://bucketmate.app/release-notes</sparkle:releaseNotesLink>
             <sparkle:fullReleaseNotesLink>https://bucketmate.app/release-notes</sparkle:fullReleaseNotesLink>
-            <pubDate>Tue, 28 Jul 2026 16:07:32 GMT</pubDate>
-            <enclosure url="https://static.bucketmate.app/BucketMate-1.6.dmg" length="12900527" type="application/octet-stream" sparkle:version="16" sparkle:edSignature="dhjvrKTShddcbhCAEhL2pZkqH15K51D487psopCjcyTzgSbwek1M5PG8pgCSn3/0QfLhBZEjfAkcjrrQi0FgCA==" />
+            <pubDate>Fri, 11 Sep 2026 06:29:03 GMT</pubDate>
+            <enclosure url="https://static.bucketmate.app/BucketMate-1.7.dmg" length="13239239" type="application/octet-stream" sparkle:version="17" sparkle:edSignature="cHFrPeLT73F4441EqJHW2FEBbzU2xxiICFaozLbd5ruEjNBz+/TmVZTf/at5Q9KJSq7I5y1ZKGaBOyWPwx7gBA==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
