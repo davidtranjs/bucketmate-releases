@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>BucketMate Changelog</title>
-        <link>https://github.com/davidtranjs/bucketmate-releases</link>
+        <link>https://bucketmate.app</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.7</title>
-            <link>https://github.com/davidtranjs/bucketmate-releases/releases/tag/v1.7</link>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
-            <sparkle:releaseNotesLink>https://bucketmate.app/release-notes</sparkle:releaseNotesLink>
-            <sparkle:fullReleaseNotesLink>https://bucketmate.app/release-notes</sparkle:fullReleaseNotesLink>
-            <pubDate>Fri, 11 Sep 2026 06:29:03 GMT</pubDate>
-            <enclosure url="https://static.bucketmate.app/BucketMate-1.7.dmg" length="13239239" type="application/octet-stream" sparkle:version="17" sparkle:edSignature="cHFrPeLT73F4441EqJHW2FEBbzU2xxiICFaozLbd5ruEjNBz+/TmVZTf/at5Q9KJSq7I5y1ZKGaBOyWPwx7gBA==" />
+            <title>Version 1.8</title>
+            <link>https://www.bucketmate.app/release-notes</link>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://www.bucketmate.app/release-notes</sparkle:releaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://www.bucketmate.app/release-notes</sparkle:fullReleaseNotesLink>
+            <pubDate>Thu, 15 Oct 2026 03:10:46 GMT</pubDate>
+            <enclosure url="https://static.bucketmate.app/bucketmate-1.8.dmg" length="18985875" type="application/octet-stream" sparkle:version="18" sparkle:edSignature="XJU1Ka3ehg5DNhiD2maMEYNtuaOcd0qOvAO88uaYHfzdDYLEeWsupbl7+nJXCuOZsxBVjn8kd/QalgT8YNcfAA==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
